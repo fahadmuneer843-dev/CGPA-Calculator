@@ -1,0 +1,45 @@
+body {
+    font-family: Arial;
+    background: #f2f2f2;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+input, select {
+    padding: 6px;
+    margin: 5px;
+}
+
+button {
+    padding: 8px 15px;
+    margin: 10px;
+    cursor: pointer;
+    background: green;
+    color: white;
+    border: none;
+}
+
+.box {
+    background: white;
+    padding: 15px;
+    margin: 10px auto;
+    width: 60%;
+    border-radius: 10px;
+}
+
+hr {
+    margin: 10px 0;
+}
+
+/* Footer */
+footer {
+    margin-top: 40px;
+    padding: 15px;
+    background: #333;
+    color: white;
+}
